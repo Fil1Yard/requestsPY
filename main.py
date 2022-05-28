@@ -24,7 +24,7 @@ def get_character_iq():
 # ------------------------ЗАДАНИЕ_2------------------------ #
 
 
-TOKEN = "AQAAAABB2LhNAADLW13hgmCKFkipuqBAjwFBZq4"
+TOKEN = ""
 
 class YaUploader:
     def __init__(self, token: str):
